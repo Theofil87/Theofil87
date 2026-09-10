@@ -46,20 +46,15 @@ I enjoy turning real-world engineering and manufacturing problems into **data-dr
 
 ---
 
-## 📂 Featured Projects
+## 📂 Featured Project
 
-### 📊 Data Analysis Portfolio
+### 🏭 Manufacturing Production & Quality Analytics
 
-**Python-based data analysis and visualization project**
+A data analytics project focused on **manufacturing production performance and quality analysis**.
 
-🔹 Data cleaning and preprocessing
-🔹 Exploratory Data Analysis (EDA)
-🔹 Statistical analysis
-🔹 Data visualization
-🔹 Interactive Streamlit dashboard
-🔹 GitHub-based development workflow
+The project demonstrates how production and quality data can be transformed into actionable insights using data analysis and visualization techniques.
 
-➡️ **[View the project](https://github.com/Theofil87/data-analysis-portfolio1)**
+➡️ **[View the project on GitHub](https://github.com/Theofil87/manufacturing-production-quality-analytics)**
 
 ---
 
