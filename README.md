@@ -1,4 +1,4 @@
-# Béla Páger — Data Analytics & Manufacturing Analytics
+# Béla Páger - Data Analytics & Manufacturing Analytics
 
 ### Data Analyst · Manufacturing Analytics · Quality Analytics
 
